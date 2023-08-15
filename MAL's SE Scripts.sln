@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAL's Defense Management System", "MAL's Defense Management System\MAL's Defense Management System.csproj", "{4774BB3B-BC4E-403A-AEE0-8E6CD6763889}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAL's Threat Assessment System", "Threat Assessment System\MAL's Threat Assessment System.csproj", "{F9DC9858-B7E4-4C78-8295-628F40689570}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAL's Action Runner", "MAL's Action Runner\MAL's Action Runner.csproj", "{52E95F54-530A-4A68-914E-69B43C8B9793}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4774BB3B-BC4E-403A-AEE0-8E6CD6763889}.Debug|x64.ActiveCfg = Debug|x64
+		{4774BB3B-BC4E-403A-AEE0-8E6CD6763889}.Debug|x64.Build.0 = Debug|x64
+		{F9DC9858-B7E4-4C78-8295-628F40689570}.Debug|x64.ActiveCfg = Debug|x64
+		{F9DC9858-B7E4-4C78-8295-628F40689570}.Debug|x64.Build.0 = Debug|x64
+		{52E95F54-530A-4A68-914E-69B43C8B9793}.Debug|x64.ActiveCfg = Debug|x64
+		{52E95F54-530A-4A68-914E-69B43C8B9793}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F4CD8E3-B58C-45EF-9485-7D107B584373}
+	EndGlobalSection
+EndGlobal
